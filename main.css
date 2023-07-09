@@ -121,7 +121,7 @@ img:last-of-type {
   background: #222;
 }
 
-p{
+span{
     cursor: pointer;
     color: aqua;
 }
